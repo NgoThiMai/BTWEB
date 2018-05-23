@@ -1,0 +1,7 @@
+
+<?php
+echo 'Chúc mừng tài khoản ';
+$ten =$_POST["name"];
+print_r($ten);
+echo ' đã đăng ký thành công';
+?>
